@@ -1,4 +1,4 @@
-[[# get_next_line
+# get_next_line
 
 ## Description
 get_next_line is a project at 42 School that implements a function which reads a line from a file descriptor. The function returns the line that was read, or NULL if there is nothing else to read or if an error occurred.
@@ -101,3 +101,5 @@ The bonus part implements handling multiple file descriptors simultaneously:
 
 ## Author
 - [mgenoves](https://profile-v3.intra.42.fr/users/mgenoves)](https://github.com/matteo-genovese/get_next_line.git)](https://github.com/matteo-genovese/get_next_line.git)
+
+![image](https://github.com/user-attachments/assets/4081360e-2884-490c-a990-002e188cfa15)
