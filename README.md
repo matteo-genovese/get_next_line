@@ -100,6 +100,6 @@ The bonus part implements handling multiple file descriptors simultaneously:
 - [`get_next_line_utils_bonus.c`](get_next_line_utils_bonus.c)
 
 ## Author
-- [mgenoves](https://profile-v3.intra.42.fr/users/mgenoves)](https://github.com/matteo-genovese/get_next_line.git)](https://github.com/matteo-genovese/get_next_line.git)
+- [mgenoves](https://profile-v3.intra.42.fr/users/mgenoves)
 
 ![image](https://github.com/user-attachments/assets/4081360e-2884-490c-a990-002e188cfa15)
